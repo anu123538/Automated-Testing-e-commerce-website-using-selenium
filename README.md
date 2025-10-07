@@ -1,5 +1,7 @@
 <img width="1361" height="714" alt="image" src="https://github.com/user-attachments/assets/3e336e8f-0994-4312-9544-988355a13a86" />
 <img width="1352" height="695" alt="image" src="https://github.com/user-attachments/assets/0d651284-f380-4a61-92f1-e90fa293d9b2" />
+<img width="1365" height="692" alt="image" src="https://github.com/user-attachments/assets/21afa90d-766e-4196-9015-6e8975f8723e" />
+
 
 # Automated Testing of E-commerce Website using Selenium (Java, JDK 17, IntelliJ IDEA)
 
