@@ -1,3 +1,7 @@
+<img width="1361" height="714" alt="image" src="https://github.com/user-attachments/assets/3e336e8f-0994-4312-9544-988355a13a86" />
+
+
+
 # Automated Testing of E-commerce Website using Selenium (Java, JDK 17, IntelliJ IDEA)
 
 This project contains automated Selenium tests for an e-commerce website, developed in Java with JDK 17 and IntelliJ IDEA.
